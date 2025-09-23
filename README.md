@@ -1,4 +1,13 @@
-## Hi there 👋
+## Proyetos
+## Desarollo de Aplicaciones Multiplataforma
+## IES Alonso de Ercilla
+---
+#### Proyectos desarollados
+**Prueba DAM**
+**Proyecos en C# y XAML (Avalonia)**
+
+1. Gestion de Boligrafos
+2. Almacen de objetos
 
 <!--
 **mateosmarcosadrian15/mateosmarcosadrian15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
