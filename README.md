@@ -1,3 +1,6 @@
+## Bienvenido a mi Github
+# Mi nombre es Adrian Mateos soy un estudiante de 2º de DAM y aqui podras encontrar mis proyectos del curso con algunos otros mas propios
+
 ## Proyectos
 ## Desarollo de Aplicaciones Multiplataforma
 ## IES Alonso de Ercilla
