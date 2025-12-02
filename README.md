@@ -1,17 +1,12 @@
-## Bienvenido a mi Github
-# Mi nombre es Adrian Mateos soy un estudiante de 2º de DAM y aqui podras encontrar mis proyectos del curso con algunos otros mas propios
+# Bienvenido a mi Github
+## Mi nombre es Adrian Mateos soy un estudiante de 2º de DAM y aqui podras encontrar mis proyectos del curso con algunos otros mas propios
+# Proyectos
+[1. Gestion en avalonia](https://github.com/mateosmarcosadrian15/ProyectoAdrianMateos)
+[2. Modulo de Odoo](https://github.com/mateosmarcosadrian15/moduloOdoo)
 
-## Proyectos
-## Desarollo de Aplicaciones Multiplataforma
-## IES Alonso de Ercilla
----
-#### Proyectos desarollados
-**Prueba DAM**
-**Proyecos en C# y XAML (Avalonia)**
 
-1. Gestion de Boligrafos
-2. Almacen de objetos
 
+## Aqui teneis mi pagina principal de github
 [Mi pagina Principal](https://mateosmarcosadrian15.github.io/)
 <!--
 **mateosmarcosadrian15/mateosmarcosadrian15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
